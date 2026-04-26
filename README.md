@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Jailson Santos! 👋
 
-<!--
-**j4ilsonsantos/j4ilsonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Front-End | Especialista em Vue.js & UI/UX
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por criar interfaces modernas, responsivas e focadas na melhor experiência do usuário. Tenho background em Design Gráfico, o que me permite traduzir protótipos complexos em código "pixel-perfect". 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, atuo na construção de Single Page Applications (SPAs) e na integração fluida entre Front-end e APIs RESTful.
+
+🛠 **Principais Tecnologias:**
+- **Front-end:** Vue.js (Vue 3, Pinia, Vite), JavaScript (ES6+), HTML5, CSS3, React
+- **Back-end & APIs:** PHP, Laravel
+- **Ferramentas & Design:** Git, WordPress, Figma, UI/UX Design
+
+🚀 **O que estou construindo:**
+- Atuando ativamente no desenvolvimento do **Process To Use (P2U)**, focando na arquitetura front-end com Vue.js e gestão de estado com Pinia.
+
+📫 **Como me encontrar:**
+- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
+- E-mail: jailsonsantos57@gmail.com
