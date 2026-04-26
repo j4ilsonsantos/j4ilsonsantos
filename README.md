@@ -15,5 +15,5 @@ Atualmente, atuo na construção de Single Page Applications (SPAs) e na integra
 - Atuando ativamente no desenvolvimento do **Process To Use (P2U)**, focando na arquitetura front-end com Vue.js e gestão de estado com Pinia.
 
 📫 **Como me encontrar:**
-- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
+- [LinkedIn](www.linkedin.com/in/jailsonsantossoares)
 - E-mail: jailsonsantos57@gmail.com
